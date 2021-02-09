@@ -1,5 +1,5 @@
 # Welcome-to-University-of-Texas-Rio-Grande-Valley-Organization-Repository-Github-
-Welcome to University of Texas Rio Grande Valley Organization Repository Github! ¡Bienvenido al repositorio de organizaciones del Valle del Río Grande de la Universidad de Texas en Github!
+Welcome to University of Texas Rio Grande Valley Organization Repository Github! ¡Bienvenido al repositorio de organizacion del Valle del Río Grande de la Universidad de Texas en Github!
 
 
 
@@ -23,7 +23,7 @@ John Javier Sánchez Balderas
 
 
 # Bienvenido-a-University-of-Texas-Rio-Grande-Valley-Organization-Repository-Github-
-¡Bienvenido al repositorio de organizaciones del Valle del Río Grande de la Universidad de Texas en Github! ¡Bienvenido al repositorio de organizaciones del Valle del Río Grande de la Universidad de Texas en Github!
+¡Bienvenido al repositorio de organizacion del Valle del Río Grande de la Universidad de Texas en Github! ¡Bienvenido al repositorio de organizaciones del Valle del Río Grande de la Universidad de Texas en Github!
 
 
 
